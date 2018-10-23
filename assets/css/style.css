@@ -1,0 +1,141 @@
+body {
+    font-family: "Poppins" , sans-serif;
+    margin: 150px 0px 0px 200px;
+    padding: 0px;
+}
+
+a {
+    color: #949394;
+    text-decoration: none;
+}
+
+
+.links {
+    position: absolute;
+    left: 12%;
+    top: 15%;
+}
+
+
+h1 {
+    font-weight: 500;
+    color: #30383e;
+    font-size: 35px;
+    display: inline;
+}
+
+h2 {
+    font-weight: 300;
+    color: #30383e;
+    font-style: italic;
+    font-size: 20px;
+    display: inline;
+    padding: 0px 0px 0px 13px;
+    vertical-align: 6px;
+}
+
+h3 {
+    font-weight: 200;
+    color: #949394;
+    font-size: 60px;
+    margin: 20px 0px 0px 0px;
+}
+
+    h3:hover {
+        font-weight: 200;
+        color: #009FF3;
+        font-size: 60px;
+        margin: 20px 0px 0px 0px;
+    }
+
+h4 {
+    font-weight: 200;
+    color: #949394;
+    font-size: 60px;
+}
+
+    h4:hover {
+        font-weight: 200;
+        color: #F23930;
+        font-size: 60px;
+    }
+
+h5 {
+    font-weight: 200;
+    color: #949394;
+    font-size: 60px;
+}
+
+    h5:hover {
+        font-weight: 200;
+        color: #F23930;
+        font-size: 60px;
+    }
+
+#footer {
+    position: absolute;
+    bottom: 15%;
+    right: 12%;
+    z-index: 3;
+}
+
+.fa-github-square {
+    color: #30383e;
+}
+
+    .fa-github-square:hover {
+        color: #949394;
+    }
+
+.fa-envelope-square {
+    color: #30383e;
+}
+
+    .fa-envelope-square:hover {
+        color: #92D4DE;
+    }
+
+#about {
+    display: none;
+    position: absolute;
+    background-color: #F23930;
+    left: 0px;
+    height: 100%;
+    top: 0px;
+    width: 100%;
+}
+
+
+h6 {
+    font-weight: 200;
+    color: white;
+    font-size: 60px;
+    padding: 0px 0px 20px 0px;
+}
+
+p {
+    font-weight: 200;
+    color: white;
+    font-size: 25px;
+}
+
+.fa-times {
+    position: absolute;
+    color: white;
+    top: 80px;
+    right: 100px;
+}
+
+#contact {
+    font-weight: 200;
+    color: #F23930;
+    font-size: 60px;
+}
+
+.fa-linkedin {
+    color: #30383e;
+}
+
+    .fa-linkedin:hover {
+        color: #1178B3;
+    }
