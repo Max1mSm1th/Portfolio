@@ -1,0 +1,29 @@
+@media only screen and (max-width: 600px) {
+
+body {
+    font-family: "Poppins" , sans-serif;
+    background-color: #F23930;
+}
+
+
+
+p {
+    position: fixed;
+    bottom: 6%;
+    font-weight: 200;
+    color: white;
+    font-size: 22px;
+    width: 80%;
+    text-align: left;
+    padding: 0px;
+}
+
+.fa-times {
+    position: absolute;
+    color: white;
+    top: 40px;
+    right: 40px;
+    size: 30px;
+}
+
+}

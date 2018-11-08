@@ -1,0 +1,114 @@
+@media only screen and (max-width: 600px) {
+
+html {
+    display: block;
+}
+
+a {
+    color: #949394;
+    text-decoration: none;
+}
+
+
+.links {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+
+h1 {
+    position: fixed;
+    top: 8%;
+    left: 10%;
+    font-weight: 500;
+    color: #30383e;
+    font-size: 35px;
+}
+
+h2 {
+    position: fixed;
+    font-weight: 300;
+    color: #30383e;
+    font-style: italic;
+    font-size: 20px;
+    padding: 20px 0px 0px 0px;
+}
+
+h3 {
+    font-weight: 200;
+    color: #949394;
+    font-size: 60px;
+    margin: 90px 0px 0px 0px;
+}
+
+h4 {
+    font-weight: 200;
+    color: #949394;
+    font-size: 60px;
+}
+
+h5 {
+    font-weight: 200;
+    color: #949394;
+    font-size: 60px;
+}
+
+    h5:hover {
+        font-weight: 200;
+        color: #F23930;
+        font-size: 60px;
+    }
+
+#footer {
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    bottom: 7%;
+}
+
+.fa-github-square {
+    color: #30383e;
+}
+
+    .fa-github-square:hover {
+        color: #949394;
+    }
+
+.fa-envelope-square {
+    color: #30383e;
+}
+
+    .fa-envelope-square:hover {
+        color: #92D4DE;
+    }
+
+
+h6 {
+    font-weight: 200;
+    color: white;
+    font-size: 60px;
+    padding: 0px 0px 20px 0px;
+}
+
+p {
+    font-weight: 200;
+    color: white;
+    font-size: 25px;
+}
+
+.fa-times {
+    position: absolute;
+    color: white;
+    top: 80px;
+    right: 100px;
+}
+
+.fa-linkedin {
+    color: #30383e;
+}
+
+    .fa-linkedin:hover {
+        color: #1178B3;
+    }
+}
